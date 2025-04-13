@@ -1,27 +1,27 @@
-# 🧭 Tactical Asset Allocation Based on the Business Cycle
+# Tactical Asset Allocation Based on the Business Cycle
 
 **Short Description:**  
 This project presents a tactical asset allocation model that dynamically adjusts portfolio weights based on business cycle phases. Developed as part of the Master of Finance program at Frankfurt School, it integrates macroeconomic and market indicators to optimize allocations across equities, bonds, commodities, and gold—aiming for consistent, risk-adjusted outperformance over time.
 
 ---
 
-### 🏫 Conducted at  
+### Conducted at  
 **Frankfurt School of Finance and Management**  
 Company Project with **HQ Trust** | October 30, 2024
 
 
 
-📌 This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
+This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `hq_trust_saa-Copy1.ipynb`: Main Jupyter notebook implementing the full tactical allocation strategy, backtests, performance evaluation, and visualizations.
 - `HQ Trust Tactical Asset Allocation Case.pdf`: Official case study brief and task outline.
 
 ---
 
-## 📌 Project Goals
+## Project Goals
 
 **Objective:**  
 Develop a dynamic tactical asset allocation strategy that adjusts monthly based on the current phase of the business cycle.
@@ -64,7 +64,7 @@ Develop a dynamic tactical asset allocation strategy that adjusts monthly based 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** (Jupyter Notebook)
 - `pandas`, `numpy`, `matplotlib`, `statsmodels`, `scikit-learn`
@@ -73,7 +73,7 @@ Develop a dynamic tactical asset allocation strategy that adjusts monthly based 
 
 ---
 
-## 📈 Strategy Highlights
+## Strategy Highlights
 
 - Systematic reallocation based on business cycle signals
 - Multi-decade backtest with macroeconomic context
@@ -81,11 +81,3 @@ Develop a dynamic tactical asset allocation strategy that adjusts monthly based 
 - Robust outperformance even in out-of-sample periods
 
 ---
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/hq-tactical-allocation.git
-cd hq-tactical-allocation
